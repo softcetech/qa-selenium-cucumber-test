@@ -76,7 +76,7 @@ Após a execução, o relatório HTML será gerado automaticamente em:
 Para abrir o relatório, basta acessar o arquivo em seu navegador:
 
 ```bash
-open target/cucumber-reports/index.html
+start target/cucumber-reports/index.html
 ```
 
 ---
